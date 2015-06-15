@@ -1,0 +1,5 @@
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWeb\bin\CalculatorWeb.dll
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWeb\bin\CalculatorWeb.pdb
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWeb\obj\Debug\CalculatorWeb.csprojResolveAssemblyReference.cache
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWeb\obj\Debug\CalculatorWeb.dll
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWeb\obj\Debug\CalculatorWeb.pdb

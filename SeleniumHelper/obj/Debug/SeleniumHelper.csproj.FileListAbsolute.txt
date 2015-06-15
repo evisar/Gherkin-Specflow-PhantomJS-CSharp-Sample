@@ -1,0 +1,9 @@
+C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\SeleniumHelper\bin\Debug\SeleniumHelper.dll
+C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\SeleniumHelper\bin\Debug\SeleniumHelper.pdb
+C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\SeleniumHelper\bin\Debug\WebDriver.dll
+C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\SeleniumHelper\bin\Debug\WebDriver.xml
+C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\SeleniumHelper\obj\Debug\SeleniumHelper.csprojResolveAssemblyReference.cache
+C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\SeleniumHelper\obj\Debug\SeleniumHelper.dll
+C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\SeleniumHelper\obj\Debug\SeleniumHelper.pdb
+C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\SeleniumHelper\bin\Debug\phantomjs.exe
+C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\SeleniumHelper\bin\Debug\phantomjs-license.txt

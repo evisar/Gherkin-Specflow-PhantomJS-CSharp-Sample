@@ -1,0 +1,10 @@
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\bin\Debug\phantomjs-license.txt
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\bin\Debug\phantomjs.exe
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\bin\Debug\Seavus.Framework.SeleniumPageAutomation.dll
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\bin\Debug\Seavus.Framework.SeleniumPageAutomation.pdb
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\bin\Debug\WebDriver.dll
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\bin\Debug\WebDriver.xml
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\obj\Debug\Seavus.Framework.SeleniumPageAutomation.csprojResolveAssemblyReference.cache
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\obj\Debug\Seavus.Framework.SeleniumPageAutomation.dll
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\obj\Debug\Seavus.Framework.SeleniumPageAutomation.pdb
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\bin\Debug\chromedriver.exe

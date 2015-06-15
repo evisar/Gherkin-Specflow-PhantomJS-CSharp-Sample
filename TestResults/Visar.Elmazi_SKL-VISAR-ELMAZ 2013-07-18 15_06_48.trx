@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0bcad72d-74db-428f-a660-fcc2ed1ff0d1" name="Visar.Elmazi@SKL-VISAR-ELMAZ 2013-07-18 15:06:48" runUser="SEAVUS-CORP\Visar.Elmazi" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f1b98136-dbb8-45d0-8178-a717adb7bc24">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Visar.Elmazi_SKL-VISAR-ELMAZ 2013-07-18 15_06_48">
+      <DeploymentItem filename="C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\SeleniumHelper\bin\Debug\Seavus.Framework.SeleniumPageAutomation.dll" />
+      <DeploymentItem filename="C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\packages\SpecFlow.1.9.0\lib\net35\TechTalk.SpecFlow.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-07-18T15:06:48.9066751+02:00" queuing="2013-07-18T15:06:48.9426751+02:00" start="2013-07-18T15:06:48.9616751+02:00" finish="2013-07-18T15:07:02.4516751+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="6" executed="6" passed="5" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MultiplyTwoNumbers" storage="c:\users\visar.elmazi\documents\visual studio 2010\projects\qaautomationsample\calculatorwebtests\bin\debug\calculatorwebtests.dll" id="f52a664a-b82f-b5a5-67f6-00c23bac0d2a">
+      <Description>Multiply two numbers</Description>
+      <Execution id="50c31b91-e577-49a3-b9db-e1e0862cde09" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Calculator</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/visar.elmazi/Documents/Visual Studio 2010/Projects/QAAutomationSample/CalculatorWebTests/bin/Debug/CalculatorWebTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorWebTests.CalculatorFeature, CalculatorWebTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultiplyTwoNumbers" />
+    </UnitTest>
+    <UnitTest name="PerformListOfOperations" storage="c:\users\visar.elmazi\documents\visual studio 2010\projects\qaautomationsample\calculatorwebtests\bin\debug\calculatorwebtests.dll" id="10c32a00-0465-17be-2ae0-155929228565">
+      <Description>PerformListOfOperations</Description>
+      <Execution id="4d6c8916-45eb-48d3-9866-3bdb69e82d99" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Calculator</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/visar.elmazi/Documents/Visual Studio 2010/Projects/QAAutomationSample/CalculatorWebTests/bin/Debug/CalculatorWebTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorWebTests.CalculatorFeature, CalculatorWebTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PerformListOfOperations" />
+    </UnitTest>
+    <UnitTest name="PerformSetOfOperations" storage="c:\users\visar.elmazi\documents\visual studio 2010\projects\qaautomationsample\calculatorwebtests\bin\debug\calculatorwebtests.dll" id="e74dee76-1004-6655-697d-b296c6102100">
+      <Description>PerformSetOfOperations</Description>
+      <Execution id="6eb5ec7f-5153-482a-88e5-d29f87679e02" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Calculator</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/visar.elmazi/Documents/Visual Studio 2010/Projects/QAAutomationSample/CalculatorWebTests/bin/Debug/CalculatorWebTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorWebTests.CalculatorFeature, CalculatorWebTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PerformSetOfOperations" />
+    </UnitTest>
+    <UnitTest name="SubstractTwoNumbers" storage="c:\users\visar.elmazi\documents\visual studio 2010\projects\qaautomationsample\calculatorwebtests\bin\debug\calculatorwebtests.dll" id="63f9fb13-8618-1764-fc21-d9118ddedef5">
+      <Description>Substract two numbers</Description>
+      <Execution id="3f3c84f7-9c73-4e9e-8b80-5c9ed74c646c" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Calculator</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/visar.elmazi/Documents/Visual Studio 2010/Projects/QAAutomationSample/CalculatorWebTests/bin/Debug/CalculatorWebTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorWebTests.CalculatorFeature, CalculatorWebTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SubstractTwoNumbers" />
+    </UnitTest>
+    <UnitTest name="AddTwoNumbers" storage="c:\users\visar.elmazi\documents\visual studio 2010\projects\qaautomationsample\calculatorwebtests\bin\debug\calculatorwebtests.dll" id="f71858f3-f563-da6e-2eab-ae1f309c3f5b">
+      <Description>Add two numbers</Description>
+      <Execution id="f72b5753-ca2d-4da6-bbc7-ba369d5243ad" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Calculator</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/visar.elmazi/Documents/Visual Studio 2010/Projects/QAAutomationSample/CalculatorWebTests/bin/Debug/CalculatorWebTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorWebTests.CalculatorFeature, CalculatorWebTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddTwoNumbers" />
+    </UnitTest>
+    <UnitTest name="DivideTwoNumbers" storage="c:\users\visar.elmazi\documents\visual studio 2010\projects\qaautomationsample\calculatorwebtests\bin\debug\calculatorwebtests.dll" id="a5d29b20-071c-7dd7-33ce-54f58c98b8a5">
+      <Description>Divide two numbers</Description>
+      <Execution id="ae064412-3caf-490e-a237-0296cedbff7b" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Calculator</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/visar.elmazi/Documents/Visual Studio 2010/Projects/QAAutomationSample/CalculatorWebTests/bin/Debug/CalculatorWebTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorWebTests.CalculatorFeature, CalculatorWebTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DivideTwoNumbers" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="10c32a00-0465-17be-2ae0-155929228565" executionId="4d6c8916-45eb-48d3-9866-3bdb69e82d99" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="63f9fb13-8618-1764-fc21-d9118ddedef5" executionId="3f3c84f7-9c73-4e9e-8b80-5c9ed74c646c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5d29b20-071c-7dd7-33ce-54f58c98b8a5" executionId="ae064412-3caf-490e-a237-0296cedbff7b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e74dee76-1004-6655-697d-b296c6102100" executionId="6eb5ec7f-5153-482a-88e5-d29f87679e02" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f52a664a-b82f-b5a5-67f6-00c23bac0d2a" executionId="50c31b91-e577-49a3-b9db-e1e0862cde09" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f71858f3-f563-da6e-2eab-ae1f309c3f5b" executionId="f72b5753-ca2d-4da6-bbc7-ba369d5243ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4d6c8916-45eb-48d3-9866-3bdb69e82d99" testId="10c32a00-0465-17be-2ae0-155929228565" testName="PerformListOfOperations" computerName="SKL-VISAR-ELMAZ" duration="00:00:06.7861958" startTime="2013-07-18T15:06:48.9636751+02:00" endTime="2013-07-18T15:06:55.9746751+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4d6c8916-45eb-48d3-9866-3bdb69e82d99">
+      <Output>
+        <StdOut>Given I open calculator
+-&gt; done: CalculatorSteps.GivenIOpenCalculator() (1.3s)
+When Calculate
+  --- table step argument ---
+  | a    | op | b    | equals |
+  | 5.33 | +  | 4.67 | 10.0   |
+  | 3.33 | x  | 3.00 | 9.99   |
+  | 3.33 | x  | 3.00 | 9.99   |
+  | 3.33 | x  | 3.00 | 9.99   |
+  | 3.33 | x  | 3.00 | 9.99   |
+  | 3.33 | x  | 3.00 | 9.99   |
+  | 3.33 | x  | 3.00 | 9.99   |
+  | 3.33 | x  | 3.00 | 9.99   |
+  | 3.33 | x  | 3.00 | 9.99   |
+-&gt; done: CalculatorSteps.WhenCalculate(&lt;table&gt;) (5.4s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3f3c84f7-9c73-4e9e-8b80-5c9ed74c646c" testId="63f9fb13-8618-1764-fc21-d9118ddedef5" testName="SubstractTwoNumbers" computerName="SKL-VISAR-ELMAZ" duration="00:00:00.7197458" startTime="2013-07-18T15:06:55.9756751+02:00" endTime="2013-07-18T15:06:56.6996751+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3f3c84f7-9c73-4e9e-8b80-5c9ed74c646c">
+      <Output>
+        <StdOut>Given I open calculator
+-&gt; done: CalculatorSteps.GivenIOpenCalculator() (0.0s)
+When I enter 80.44
+-&gt; done: CalculatorSteps.WhenIEnter(80.44) (0.3s)
+And I press "-"
+-&gt; done: CalculatorSteps.WhenIPress("-") (0.1s)
+And I enter 70.33
+-&gt; done: CalculatorSteps.WhenIEnter(70.33) (0.3s)
+And I press "="
+-&gt; done: CalculatorSteps.WhenIPress("=") (0.1s)
+Then the result should be 10.11
+-&gt; done: CalculatorSteps.ThenTheResultShouldBe(10.11) (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ae064412-3caf-490e-a237-0296cedbff7b" testId="a5d29b20-071c-7dd7-33ce-54f58c98b8a5" testName="DivideTwoNumbers" computerName="SKL-VISAR-ELMAZ" duration="00:00:00.7409199" startTime="2013-07-18T15:06:56.7016751+02:00" endTime="2013-07-18T15:06:57.4466751+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ae064412-3caf-490e-a237-0296cedbff7b">
+      <Output>
+        <StdOut>Given I open calculator
+-&gt; done: CalculatorSteps.GivenIOpenCalculator() (0.0s)
+When I enter 50.22
+-&gt; done: CalculatorSteps.WhenIEnter(50.22) (0.3s)
+And I press "/"
+-&gt; done: CalculatorSteps.WhenIPress("/") (0.1s)
+And I enter 70.33
+-&gt; done: CalculatorSteps.WhenIEnter(70.33) (0.3s)
+And I press "="
+-&gt; done: CalculatorSteps.WhenIPress("=") (0.1s)
+Then the result should be 120.55
+-&gt; error: Assert.AreEqual failed. Expected:&lt;120.55&gt;. Actual:&lt;70.33&gt;.</StdOut>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;120.55&gt;. Actual:&lt;70.33&gt;. </Message>
+          <StackTrace>   at CalculatorWebTests.CalculatorSteps.ThenTheResultShouldBe(Double p0) in C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\CalculatorWebTests\CalculatorSteps.cs:line 67
+   at lambda_method(Closure , IContextManager , Double )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at CalculatorWebTests.CalculatorFeature.ScenarioCleanup() in C:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\CalculatorWebTests\Calculator.feature.cs:line 0
+   at CalculatorWebTests.CalculatorFeature.DivideTwoNumbers() in c:\Users\visar.elmazi\Documents\Visual Studio 2010\Projects\QAAutomationSample\CalculatorWebTests\Calculator.feature:line 34
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6eb5ec7f-5153-482a-88e5-d29f87679e02" testId="e74dee76-1004-6655-697d-b296c6102100" testName="PerformSetOfOperations" computerName="SKL-VISAR-ELMAZ" duration="00:00:00.7837429" startTime="2013-07-18T15:06:57.4536751+02:00" endTime="2013-07-18T15:06:58.2426751+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6eb5ec7f-5153-482a-88e5-d29f87679e02">
+      <Output>
+        <StdOut>Given I open calculator
+-&gt; done: CalculatorSteps.GivenIOpenCalculator() (0.0s)
+When I execute "5+3x4-2x3.33="
+-&gt; done: CalculatorSteps.WhenIExecute("5+3x4-2x3.33=") (0.7s)
+Then the result should be 99.9
+-&gt; done: CalculatorSteps.ThenTheResultShouldBe(99.9) (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="50c31b91-e577-49a3-b9db-e1e0862cde09" testId="f52a664a-b82f-b5a5-67f6-00c23bac0d2a" testName="MultiplyTwoNumbers" computerName="SKL-VISAR-ELMAZ" duration="00:00:00.4561733" startTime="2013-07-18T15:06:58.2446751+02:00" endTime="2013-07-18T15:06:58.7046751+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50c31b91-e577-49a3-b9db-e1e0862cde09">
+      <Output>
+        <StdOut>Given I open calculator
+-&gt; done: CalculatorSteps.GivenIOpenCalculator() (0.0s)
+When I enter 5.55
+-&gt; done: CalculatorSteps.WhenIEnter(5.55) (0.2s)
+And I press "x"
+-&gt; done: CalculatorSteps.WhenIPress("x") (0.1s)
+And I enter 2.0
+-&gt; done: CalculatorSteps.WhenIEnter(2) (0.1s)
+And I press "="
+-&gt; done: CalculatorSteps.WhenIPress("=") (0.1s)
+Then the result should be 11.10
+-&gt; done: CalculatorSteps.ThenTheResultShouldBe(11.1) (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f72b5753-ca2d-4da6-bbc7-ba369d5243ad" testId="f71858f3-f563-da6e-2eab-ae1f309c3f5b" testName="AddTwoNumbers" computerName="SKL-VISAR-ELMAZ" duration="00:00:00.7108838" startTime="2013-07-18T15:06:58.7066751+02:00" endTime="2013-07-18T15:06:59.4206751+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f72b5753-ca2d-4da6-bbc7-ba369d5243ad">
+      <Output>
+        <StdOut>Given I open calculator
+-&gt; done: CalculatorSteps.GivenIOpenCalculator() (0.0s)
+When I enter 50.22
+-&gt; done: CalculatorSteps.WhenIEnter(50.22) (0.3s)
+And I press "+"
+-&gt; done: CalculatorSteps.WhenIPress("+") (0.1s)
+And I enter 70.33
+-&gt; done: CalculatorSteps.WhenIEnter(70.33) (0.3s)
+And I press "="
+-&gt; done: CalculatorSteps.WhenIPress("=") (0.1s)
+Then the result should be 120.55
+-&gt; done: CalculatorSteps.ThenTheResultShouldBe(120.55) (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

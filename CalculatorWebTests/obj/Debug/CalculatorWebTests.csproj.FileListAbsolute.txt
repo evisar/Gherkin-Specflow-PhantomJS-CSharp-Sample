@@ -1,0 +1,14 @@
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\phantomjs-license.txt
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\phantomjs.exe
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\CalculatorWebTests.dll.config
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\CalculatorWebTests.dll
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\CalculatorWebTests.pdb
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\Seavus.Framework.SeleniumPageAutomation.dll
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\WebDriver.dll
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\Seavus.Framework.SeleniumPageAutomation.pdb
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\WebDriver.xml
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\obj\Debug\CalculatorWebTests.csprojResolveAssemblyReference.cache
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\obj\Debug\CalculatorWebTests.dll
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\obj\Debug\CalculatorWebTests.pdb
+C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\chromedriver.exe
