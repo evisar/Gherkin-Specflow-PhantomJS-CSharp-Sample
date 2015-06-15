@@ -8,3 +8,13 @@ C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\Selenium
 C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\obj\Debug\Seavus.Framework.SeleniumPageAutomation.dll
 C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\obj\Debug\Seavus.Framework.SeleniumPageAutomation.pdb
 C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\SeleniumHelper\bin\Debug\chromedriver.exe
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\SeleniumHelper\bin\Debug\phantomjs.exe
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\SeleniumHelper\bin\Debug\chromedriver.exe
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\SeleniumHelper\bin\Debug\phantomjs-license.txt
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\SeleniumHelper\bin\Debug\Seavus.Framework.SeleniumPageAutomation.dll
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\SeleniumHelper\bin\Debug\Seavus.Framework.SeleniumPageAutomation.pdb
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\SeleniumHelper\bin\Debug\WebDriver.dll
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\SeleniumHelper\bin\Debug\WebDriver.xml
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\SeleniumHelper\obj\Debug\Seavus.Framework.SeleniumPageAutomation.csprojResolveAssemblyReference.cache
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\SeleniumHelper\obj\Debug\Seavus.Framework.SeleniumPageAutomation.dll
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\SeleniumHelper\obj\Debug\Seavus.Framework.SeleniumPageAutomation.pdb

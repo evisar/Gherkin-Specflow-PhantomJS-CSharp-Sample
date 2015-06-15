@@ -3,3 +3,8 @@ C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\Calculat
 C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWeb\obj\Debug\CalculatorWeb.csprojResolveAssemblyReference.cache
 C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWeb\obj\Debug\CalculatorWeb.dll
 C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWeb\obj\Debug\CalculatorWeb.pdb
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWeb\bin\CalculatorWeb.dll
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWeb\bin\CalculatorWeb.pdb
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWeb\obj\Debug\CalculatorWeb.csprojResolveAssemblyReference.cache
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWeb\obj\Debug\CalculatorWeb.dll
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWeb\obj\Debug\CalculatorWeb.pdb

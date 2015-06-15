@@ -12,3 +12,17 @@ C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\Calculat
 C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\obj\Debug\CalculatorWebTests.dll
 C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\obj\Debug\CalculatorWebTests.pdb
 C:\Users\visar.elmazi\Downloads\QAAutomationSamplev2\QAAutomationSample\CalculatorWebTests\bin\Debug\chromedriver.exe
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\phantomjs.exe
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\chromedriver.exe
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\phantomjs-license.txt
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\CalculatorWebTests.dll.config
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\CalculatorWebTests.dll
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\CalculatorWebTests.pdb
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\Seavus.Framework.SeleniumPageAutomation.dll
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\WebDriver.dll
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\Seavus.Framework.SeleniumPageAutomation.pdb
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\bin\Debug\WebDriver.xml
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\obj\Debug\CalculatorWebTests.csprojResolveAssemblyReference.cache
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\obj\Debug\CalculatorWebTests.dll
+C:\QAAutomationSample\Gherkin-Specflow-PhantomJS-CSharp-Sample\CalculatorWebTests\obj\Debug\CalculatorWebTests.pdb
